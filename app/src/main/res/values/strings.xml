@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView-test</string>
+    <string name="dispostivo">Nombre del dispositivo</string>
+    <string name="macAdress">Mac Adress</string>
+    <string name="conexion">¿Está conectado?</string>
+    <string name="blutooth">Bluetooth</string>
+</resources>
